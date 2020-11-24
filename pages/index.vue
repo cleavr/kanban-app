@@ -4,7 +4,7 @@
       class="flex flex-col sm:flex-row sm:justify-between sm:items-center mt-6"
     >
       <div class="mb-4 sm:mb-0">
-        <p class="font-extrabold text-xl text-purple-700">Miedema's Pipeline Cheese</p>
+        <p class="font-extrabold text-xl text-purple-700">Miedema's Pipeline</p>
         <button
           data-test="reset-kanban"
           class="inline text-white rounded-full bg-indigo-500 uppercase px-2 text-xs font-bold focus:outline-none"
