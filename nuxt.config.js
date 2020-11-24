@@ -4,7 +4,7 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'Kanban App',
+    title: process.env.port,
     meta: [
       { charset: 'utf-8' },
       {
