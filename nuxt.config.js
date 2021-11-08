@@ -23,7 +23,7 @@ export default {
     script: [
       {
         'data-api': '/api/event',
-        'data-domain': 'cleavr.io',
+        'data-domain': 'kaytaabemwznss9o2787.cleaver.rocks/',
         src: '/js/script.js',
         defer: true,
       },
