@@ -20,6 +20,14 @@ export default {
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    script: [
+      {
+        'data-api': '/api/event',
+        'data-domain': 'cleavr.io',
+        src: '/js/script.js',
+        defer: true,
+      },
+   ],
   },
 
   // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)
